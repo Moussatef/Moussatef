@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](otman.moussetaf@gmail.com)
-
 -----
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
