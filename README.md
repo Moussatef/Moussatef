@@ -44,8 +44,10 @@
 <a href = 'https://www.github.com/Moussatef'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 <br>
+
 <br>
-  <br>
+
+<br>
 
  ![Moussatef 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Moussatef&theme=redical&hide_border=true&area=true)
 | ![Moussatef github stats](https://github-readme-stats.vercel.app/api?username=Moussatef&show_icons=true&theme=radical)             | ![Moussatef GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moussatef&theme=radical)                                                                                                           |
